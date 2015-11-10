@@ -79,7 +79,7 @@
                                     message:message
                                    delegate:nil
                           cancelButtonTitle:nil
-                          otherButtonTitles:NSLocalizedString(@"Okay", nil), nil] show];
+                          otherButtonTitles:NSLocalizedString(@"Ok", nil), nil] show];
     }
     return shouldSelect;
 }
